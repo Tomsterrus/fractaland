@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+
+# Python and Numba caches (Numba stores compiled kernels in __pycache__)
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Personal output of the viewer
+screenshots/
